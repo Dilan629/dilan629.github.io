@@ -17,6 +17,13 @@ header{
     background-color: #D32F2F;
 }
 
+header{
+    border: 0.1em #ffD32F2F solid;
+    border-radius: 0.5em;
+    width: 100%;
+    background-color: #ffD32F2F;
+}
+
 #HeaderTitle{
    display: inline-block;
    width: 80%;
@@ -191,3 +198,6 @@ footer a:hover{
 
 .embed_content{
     margin: 0% 25%; 
+}
+
+
