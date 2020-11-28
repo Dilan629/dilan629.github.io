@@ -30,7 +30,7 @@ header{
    text-align: center;
    vertical-align: top;
    margin-top: 7%;
-   color: #0366d6  ;
+   color: #fff  ;
 }
 
 #HeaderImg{
@@ -86,7 +86,7 @@ nav{
     display: none;
     list-style: none;
     color: #fff ;
-    background-color: #D32F2F;
+    background-color: #1d10d4;
     font-size: 1.1em;
     text-align: center;
 }
