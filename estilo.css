@@ -30,7 +30,7 @@ header{
    text-align: center;
    vertical-align: top;
    margin-top: 7%;
-   color: #fff  ;
+   color: #0366d6  ;
 }
 
 #HeaderImg{
@@ -38,7 +38,7 @@ header{
     width: 15%;
     margin: 1em 0em;
     text-align: center;
-    border: #3559cf solid;
+    border: #D32F2F solid;
     border-radius: 1.5em;
 }
 
