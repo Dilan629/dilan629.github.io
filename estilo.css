@@ -11,17 +11,10 @@ body
 }
 
 header{
-    border: 0.1em #ffD32F2F solid;
+    border: 0.1em #250bb8f3 solid;
     border-radius: 0.5em;
     width: 100%;
-    background-color: #ffD32F2F;
-}
-
-header{
-    border: 0.1em #ffD32F2F solid;
-    border-radius: 0.5em;
-    width: 100%;
-    background-color: #ffD32F2F;
+    background-color: #250bb8f3;
 }
 
 #HeaderTitle{
